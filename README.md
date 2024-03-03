@@ -12,7 +12,7 @@
     <div> <h2>atualmente estou aprendendo mais sobre programações e front end em geral, linguagens que tenho experiencias são : HTML,CSS,Javascript e payton.</h2></div>
       </body>
      <spam></spam>
-    <footer> entre em contato : instagram= @XXXXXXXXX or
+    <footer> entre em contato : 
      <a href="https://www.linkedin.com/in/luiz-gustavo-gomes-bernardino-96ab422b6/" target = "_blank"> Linkindin= @LuizGustavo </a>
     </footer>
 
