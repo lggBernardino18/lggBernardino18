@@ -13,7 +13,7 @@
       </body>
      <spam></spam>
     <footer> entre em contato : instagram= @XXXXXXXXX or
-     <a href="https://www.linkedin.com/in/luiz-gustavo-gomes-bernardino-96ab422b6/" traget = "_blank"> Linkindin= @LuizGustavo </a>
+     <a href="https://www.linkedin.com/in/luiz-gustavo-gomes-bernardino-96ab422b6/" target = "_blank"> Linkindin= @LuizGustavo </a>
     </footer>
 
 </html>
