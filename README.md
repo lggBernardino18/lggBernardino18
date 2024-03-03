@@ -7,13 +7,14 @@
       <h2> age/idade: 18 anos </h2>
     </div>
     <div>
-      <h2> estou interessado em ... começar a trabalhar na área de desenvolvimeto de sistema </h2>
+      <h2> estou interessado em começar a trabalhar na área de desenvolvimeto de sistema </h2>
     </div>
-    <div> <h2>atualmente estou aprendendo mais sobre programações e front end em geral, linguagens que tenho experiencias são : HTML,CSS,Javascript,etc.</h2></div>
+    <div> <h2>atualmente estou aprendendo mais sobre programações e front end em geral, linguagens que tenho experiencias são : HTML,CSS,Javascript e payton.</h2></div>
       </body>
      <spam></spam>
     <footer> entre em contato : instagram= @XXXXXXXXX or
-      Linkindin= XXXXXXX </footer>
+     <a href="https://www.linkedin.com/in/luiz-gustavo-gomes-bernardino-96ab422b6/" traget = "_blank"> Linkindin= @LuizGustavo >/a>
+    </footer>
 
 </html>
 
